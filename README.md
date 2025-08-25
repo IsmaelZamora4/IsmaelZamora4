@@ -6,10 +6,17 @@
 
 ## 🚀 Sobre mí
 - 🎓 Estudiante de **9no ciclo de Ingeniería de Software (Décimo Superior)** en la **Universidad Peruana de Ciencias Aplicadas (UPC)**  
-- 💻 Experiencia en **desarrollo Front-End & Back-End** con **Angular** y **React**  
+- 💻 Experiencia en **desarrollo Front-End & Back-End** con **Angular, React, PHP y WordPress**  
 - 📊 Conocimientos en **Bases de Datos** (MySQL & MongoDB), **PowerBI** y **Excel**  
 - 🔐 Interés en **Ciberseguridad & Data Analytics**  
 - 🌱 Siempre aprendiendo y explorando nuevas tecnologías  
+
+---
+
+## 💼 Actualmente trabajando en
+- Proyectos con **Angular**, **React** y **WordPress**, aplicando **metodologías ágiles (Scrum)**  
+- Desarrollo de **aplicaciones web** con enfoque en escalabilidad y buenas prácticas  
+- Colaboración en equipos multidisciplinarios para la construcción de soluciones digitales  
 
 ---
 
@@ -18,12 +25,14 @@
 ### 💻 Lenguajes
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🌐 Frameworks & Librerías
+### 🌐 Frameworks & CMS
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ### 🗄️ Bases de Datos
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -56,16 +65,11 @@
 
 ---
 
-## 🏆 Logros y Reconocimientos
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IsmaelZamora4&theme=onedark&row=1&column=6" alt="trophy"/>
-</p>
-
----
-
 ## 🌐 Conecta conmigo
 <p align="center">
-  <a href="mailto:zaidtroks.zamora@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:ismaelzr.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/ismael-zamora"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/ismaa.zr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://wa.me/51918605351"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href="https://github.com/IsmaelZamora4"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
