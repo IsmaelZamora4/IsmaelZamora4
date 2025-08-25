@@ -57,6 +57,12 @@
 ✔️ **IT Fundamentals for Cybersecurity (IBM)**  
 ✔️ **Security Analyst Fundamentals (IBM)**  
 ✔️ **ISC Data Analytics Aplicado a Cadena de Suministro**
+✔️ **Data Analysis with Python**
+✔️ **Front End Development Libraries**
+✔️ **Legacy Front End**
+✔️ **Responsive Web Design**
+✔️ **Scrum Fundamentals Certified**
+✔️ **Build a Full Website using WordPress**
 
 ---
 
