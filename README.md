@@ -1,7 +1,7 @@
 <!-- Banner de presentación -->
 <h1 align="center">
   ¡Hola! Soy Ismael Zamora 
-  <img src="[https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966](https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966)" width="40px" alt="saludo">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="saludo">
 </h1>
 
 <h3 align="center">Estudiante de Ingeniería de Software | UPC | Apasionado por el desarrollo web & data</h3>
